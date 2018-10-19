@@ -1,4 +1,4 @@
-Official Proxy image on Online Labs [![Build Status](https://travis-ci.org/online-labs/image-app-proxy.svg?branch=master)](https://travis-ci.org/online-labs/image-app-proxy)
+Official Proxy image on Online Labs [![Build Status](https://travis-ci.org/online-labs/image-app-proxy.svg?branch=master)](https://travis-ci.org/online-labs/image-app-proxy) [![GuardRails badge](https://badges.production.guardrails.io/moul/image-app-proxy.svg)](https://www.guardrails.io)
 ===================================
 
 Scripts to build the official Proxy image on Online Labs
